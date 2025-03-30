@@ -17,37 +17,37 @@ function ProductList() {
             plants: [
                 {
                     name: "Snake Plant",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/snake-plant-5939187_1280.jpg",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/snake-plant-5939187_1280.jpg",
                     description: "Produces oxygen at night, improving air quality.",
                     cost: "$15"
                 },
                 {
                     name: "Spider Plant",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/chlorophytum-3530413_1280.jpg",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/chlorophytum-3530413_1280.jpg",
                     description: "Filters formaldehyde and xylene from the air.",
                     cost: "$12"
                 },
                 {
                     name: "Peace Lily",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/peace-lilies-4269365_1280.jpg",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/peace-lilies-4269365_1280.jpg",
                     description: "Removes mold spores and purifies the air.",
                     cost: "$18"
                 },
                 {
                     name: "Boston Fern",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/boston-fern-5114414_1280.jpg",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/boston-fern-5114414_1280.jpg",
                     description: "Adds humidity to the air and removes toxins.",
                     cost: "$20"
                 },
                 {
                     name: "Rubber Plant",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/flower-4850729_1280.jpg",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/flower-4850729_1280.jpg",
                     description: "Easy to care for and effective at removing toxins.",
                     cost: "$17"
                 },
                 {
                     name: "Aloe Vera",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/leaf-3283175_1280.jpg",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/leaf-3283175_1280.jpg",
                     description: "Purifies the air and has healing properties for skin.",
                     cost: "$14"
                 }
@@ -58,37 +58,37 @@ function ProductList() {
             plants: [
                 {
                     name: "Lavender",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/lavender.jpg",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/lavender.jpg",
                     description: "Calming scent, used in aromatherapy.",
                     cost: "$20"
                 },
                 {
                     name: "Jasmine",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/jasmine.jpg",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/jasmine.jpg",
                     description: "Sweet fragrance, promotes relaxation.",
                     cost: "$18"
                 },
                 {
                     name: "Rosemary",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Invigorating scent, often used in cooking.",
                     cost: "$15"
                 },
                 {
                     name: "Mint",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Refreshing aroma, used in teas and cooking.",
                     cost: "$12"
                 },
                 {
                     name: "Lemon Balm",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Citrusy scent, relieves stress and promotes sleep.",
                     cost: "$14"
                 },
                 {
                     name: "Hyacinth",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Hyacinth is a beautiful flowering plant known for its fragrant.",
                     cost: "$22"
                 }
@@ -99,37 +99,37 @@ function ProductList() {
             plants: [
                 {
                     name: "oregano",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "The oregano plants contains compounds that can deter certain insects.",
                     cost: "$10"
                 },
                 {
                     name: "Marigold",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Natural insect repellent, also adds color to the garden.",
                     cost: "$8"
                 },
                 {
                     name: "Geraniums",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Known for their insect-repelling properties while adding a pleasant scent.",
                     cost: "$20"
                 },
                 {
                     name: "Basil",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Repels flies and mosquitoes, also used in cooking.",
                     cost: "$9"
                 },
                 {
                     name: "Lavender",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Calming scent, used in aromatherapy.",
                     cost: "$20"
                 },
                 {
                     name: "Catnip",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Repels mosquitoes and attracts cats.",
                     cost: "$13"
                 }
@@ -140,37 +140,37 @@ function ProductList() {
             plants: [
                 {
                     name: "Aloe Vera",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Soothing gel used for skin ailments.",
                     cost: "$14"
                 },
                 {
                     name: "Echinacea",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Boosts immune system, helps fight colds.",
                     cost: "$16"
                 },
                 {
                     name: "Peppermint",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Relieves digestive issues and headaches.",
                     cost: "$13"
                 },
                 {
                     name: "Lemon Balm",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Calms nerves and promotes relaxation.",
                     cost: "$14"
                 },
                 {
                     name: "Chamomile",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Soothes anxiety and promotes sleep.",
                     cost: "$15"
                 },
                 {
                     name: "Calendula",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Heals wounds and soothes skin irritations.",
                     cost: "$12"
                 }
@@ -181,37 +181,37 @@ function ProductList() {
             plants: [
                 {
                     name: "ZZ Plant",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Thrives in low light and requires minimal watering.",
                     cost: "$25"
                 },
                 {
                     name: "Pothos",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Tolerates neglect and can grow in various conditions.",
                     cost: "$10"
                 },
                 {
                     name: "Snake Plant",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Needs infrequent watering and is resilient to most pests.",
                     cost: "$15"
                 },
                 {
                     name: "Cast Iron Plant",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Hardy plant that tolerates low light and neglect.",
                     cost: "$20"
                 },
                 {
                     name: "Succulents",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Drought-tolerant plants with unique shapes and colors.",
                     cost: "$18"
                 },
                 {
                     name: "Aglaonema",
-                    image: "/paradise-nursery-shopping-cart-app/assets/img/",
+                    image: "https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project/assets/img/",
                     description: "Requires minimal care and adds color to indoor spaces.",
                     cost: "$22"
                 }
@@ -274,7 +274,7 @@ function ProductList() {
                 <div className="tag">
                     <div className="luxury">
                         <img src="https://cdn.pixabay.com/photo/2020/08/05/13/12/eco-5465432_1280.png" alt="" />
-                        <a href="/paradise-nursery-shopping-cart-app/" style={{ textDecoration: 'none' }}>
+                        <a href="https://profe-ajedrez.github.io/reyes-paradise-nursery-final-project" style={{ textDecoration: 'none' }}>
                             <div>
                                 <h3 style={{ color: 'white' }}>Paradise Nursery</h3>
                                 <i style={{ color: 'white' }}>Where Serenity Meets Serenity</i>
